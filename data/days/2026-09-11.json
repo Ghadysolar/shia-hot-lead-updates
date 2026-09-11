@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T16:04:32.069Z",
+  "totalHotLeads": 15,
+  "totals": { "hot": 4, "contacted": 10, "booked": 1 },
+  "stageBreakdown": [
+    { "stage": "Sin Respuesta (Seguimiento)", "bucket": "contacted", "count": 6 },
+    { "stage": "Hot Lead In", "bucket": "hot", "count": 4 },
+    { "stage": "Sin respuests y contactado Daglys", "bucket": "contacted", "count": 2 },
+    { "stage": "Sin respuesta y contactado Karina", "bucket": "contacted", "count": 1 },
+    { "stage": "Contactado", "bucket": "contacted", "count": 1 },
+    { "stage": "Cita Agendada", "bucket": "booked", "count": 1 }
+  ],
+  "leads": [
+    { "name": "Enrique Gonzalez", "stage": "Sin Respuesta (Seguimiento)", "bucket": "contacted", "createdAt": "2026-09-11T14:59:28.340Z", "rep": "Esmeralda Ribon", "email": "mooskiees@outlook.com", "phone": "+13235287787" },
+    { "name": "Susana Rojas", "stage": "Sin respuests y contactado Daglys", "bucket": "contacted", "createdAt": "2026-09-11T14:21:57.597Z", "rep": "Daglys  Rugeles", "email": "susanarojas4560@gmail.com", "phone": "+13238309105" },
+    { "name": "Elizabeth Pinto", "stage": "Sin respuesta y contactado Karina", "bucket": "contacted", "createdAt": "2026-09-11T13:05:33.585Z", "rep": "Karina Vasquez", "email": "efpinto@hotmail.com", "phone": "+18184813573" },
+    { "name": "Dorina Briseno", "stage": "Hot Lead In", "bucket": "hot", "createdAt": "2026-09-11T09:57:38.906Z", "rep": "Itzel Gálvez Martínez", "email": "dbbriseno@gmail.com", "phone": "+16192592036" },
+    { "name": "Daniel Dominguez", "stage": "Hot Lead In", "bucket": "hot", "createdAt": "2026-09-11T05:22:45.362Z", "rep": "Tania Díaz", "email": "dmdominguez01@gmail.com", "phone": "+19092798346" },
+    { "name": "Juan Cuevas", "stage": "Hot Lead In", "bucket": "hot", "createdAt": "2026-09-11T03:58:14.469Z", "rep": "Estefania Colin", "email": "ccabadas124@gmail.com", "phone": "+17148786530" },
+    { "name": "Rubicela Huazano", "stage": "Sin Respuesta (Seguimiento)", "bucket": "contacted", "createdAt": "2026-09-11T03:49:44.571Z", "rep": "Esmeralda Ribon", "email": "rubihuazano@yahoo.com", "phone": "+11626665284" },
+    { "name": "Luis Flores", "stage": "Sin respuests y contactado Daglys", "bucket": "contacted", "createdAt": "2026-09-11T03:14:29.022Z", "rep": "Daglys  Rugeles", "email": "luiflore@aol.com", "phone": "+16613464543" },
+    { "name": "Juan Campos", "stage": "Cita Agendada", "bucket": "booked", "createdAt": "2026-09-11T02:44:15.425Z", "rep": "Karina Vasquez", "email": "hlety9185@gmail.com", "phone": "+18186521928" },
+    { "name": "Ari Rosa", "stage": "Sin Respuesta (Seguimiento)", "bucket": "contacted", "createdAt": "2026-09-11T02:06:59.247Z", "rep": "Itzel Gálvez Martínez", "email": "vhy@mexico.com", "phone": "+13102020411" },
+    { "name": "Jenner Barrios", "stage": "Sin Respuesta (Seguimiento)", "bucket": "contacted", "createdAt": "2026-09-11T01:06:51.913Z", "rep": "Tania Díaz", "email": "northbarr@yahoo.com", "phone": "+18185853033" },
+    { "name": "Jose Sanchez", "stage": "Hot Lead In", "bucket": "hot", "createdAt": "2026-09-11T00:36:47.576Z", "rep": "Estefania Colin", "email": "congotranspo@gmail.com", "phone": "+13239798095" },
+    { "name": "Lucila Duck", "stage": "Contactado", "bucket": "contacted", "createdAt": "2026-09-10T21:34:28.151Z", "rep": "Esmeralda Ribon", "email": "luciladuck@yahoo.com", "phone": "+16196666287" },
+    { "name": "Ada Alvarado", "stage": "Sin Respuesta (Seguimiento)", "bucket": "contacted", "createdAt": "2026-09-10T21:33:02.598Z", "rep": "Itzel Gálvez Martínez", "email": "adaalvarado@att.net", "phone": "+16267555649" },
+    { "name": "Martha Murcia", "stage": "Sin Respuesta (Seguimiento)", "bucket": "contacted", "createdAt": "2026-09-10T21:32:12.224Z", "rep": "Itzel Gálvez Martínez", "email": "martha@generalprocurement.com", "phone": "+15623677726" }
+  ]
+}
