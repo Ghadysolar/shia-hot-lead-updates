@@ -1,0 +1,36 @@
+name: Daily hot lead pull
+
+on:
+  schedule:
+    - cron: "0 21 * * *"  # 21:00 UTC ≈ 5:00 PM Miami (EDT, UTC-4)
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Pull GHL hot lead data
+        env:
+          GHL_API_KEY: ${{ secrets.GHL_API_KEY }}
+        run: python scripts/pull_leads.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "hot-leads-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily hot lead data update"
+            git push
+          fi
