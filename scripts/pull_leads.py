@@ -11,6 +11,7 @@ block below and only keep the aggregate counts.
 import json
 import os
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.request import Request, urlopen
@@ -29,6 +30,9 @@ HEADERS = {
     "Authorization": f"Bearer {API_KEY}",
     "Version": "2021-07-28",
     "Accept": "application/json",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept-Language": "en-US,en;q=0.9",
 }
 
 STAGE_MAP = {
@@ -93,6 +97,8 @@ def main():
     stop = False
 
     while not stop and page < 40:
+        if page > 0:
+            time.sleep(0.4)  # small gap between requests, looks less bot-like
         url = f"{base}?location_id={LOCATION_ID}&pipeline_id={PIPELINE_ID}&limit=100"
         if start_after:
             url += f"&startAfter={start_after}&startAfterId={start_after_id}"
