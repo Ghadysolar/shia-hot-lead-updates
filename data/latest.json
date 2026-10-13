@@ -1,17 +1,22 @@
 {
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T00:08:45.099913Z",
-  "totalHotLeads": 3,
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T02:22:21.308243Z",
+  "totalHotLeads": 5,
   "totals": {
-    "hot": 2,
+    "hot": 3,
     "contacted": 1,
-    "booked": 0
+    "booked": 1
   },
   "stageBreakdown": [
     {
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "count": 2
+      "count": 3
+    },
+    {
+      "stage": "Descalificado",
+      "bucket": "booked",
+      "count": 1
     },
     {
       "stage": "Contactado",
@@ -21,31 +26,49 @@
   ],
   "leads": [
     {
-      "name": "Rocendo VILLAGOMEZ",
+      "name": "Maria Ortiz",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-10-13T02:21:57.041Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "mari.ortiz6624@gmail.com",
+      "phone": "+18583140311"
+    },
+    {
+      "name": "Jose Molina",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-10-13T01:45:04.647Z",
+      "rep": "Esmeralda Ribon",
+      "email": "jmtree.landscapeservices@gmail.com",
+      "phone": "+17145746541"
+    },
+    {
+      "name": "Rafael RuiZ",
+      "stage": "Descalificado",
+      "bucket": "booked",
+      "createdAt": "2026-10-13T01:12:05.240Z",
+      "rep": "Daglys  Rugeles",
+      "email": "adorador2011@yahoo.com",
+      "phone": "+18183101235"
+    },
+    {
+      "name": "DANIEL MOLINA",
       "stage": "Contactado",
       "bucket": "contacted",
-      "createdAt": "2026-10-11T22:49:30.894Z",
+      "createdAt": "2026-10-13T00:49:16.391Z",
       "rep": "Karina Vasquez",
-      "email": "rocendo882@gmail.com",
-      "phone": "+19519871885"
+      "email": "molina.daniel.m@gmail.com",
+      "phone": "+19096487148"
     },
     {
-      "name": "Arturo Martinez",
+      "name": "Nelly Lucio",
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "createdAt": "2026-10-11T22:20:47.658Z",
+      "createdAt": "2026-10-12T23:44:47.637Z",
       "rep": "Estefania Colin",
-      "email": "martinezart1963@gmail.com",
-      "phone": "+17144762470"
-    },
-    {
-      "name": "Elida Baez",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-10-11T21:56:34.491Z",
-      "rep": "Itzel Gálvez Martínez",
-      "email": "ebaez0727@gmail.com",
-      "phone": "+13109083370"
+      "email": "nellylucio55@yahoo.com",
+      "phone": "+19098510654"
     }
   ]
 }
