@@ -1,28 +1,12 @@
 {
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T00:04:11.515106Z",
-  "totalHotLeads": 1,
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-14T23:36:06.477863Z",
+  "totalHotLeads": 0,
   "totals": {
     "hot": 0,
-    "contacted": 1,
+    "contacted": 0,
     "booked": 0
   },
-  "stageBreakdown": [
-    {
-      "stage": "Sin Respuesta (Seguimiento)",
-      "bucket": "contacted",
-      "count": 1
-    }
-  ],
-  "leads": [
-    {
-      "name": "Laura Beltran",
-      "stage": "Sin Respuesta (Seguimiento)",
-      "bucket": "contacted",
-      "createdAt": "2026-10-13T21:30:00.568Z",
-      "rep": "Itzel Gálvez Martínez",
-      "email": "laurabeltran96@gmail.com",
-      "phone": "+12092771761"
-    }
-  ]
+  "stageBreakdown": [],
+  "leads": []
 }
