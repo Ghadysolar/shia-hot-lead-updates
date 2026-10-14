@@ -1,74 +1,28 @@
 {
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T02:22:21.308243Z",
-  "totalHotLeads": 5,
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T00:04:11.515106Z",
+  "totalHotLeads": 1,
   "totals": {
-    "hot": 3,
+    "hot": 0,
     "contacted": 1,
-    "booked": 1
+    "booked": 0
   },
   "stageBreakdown": [
     {
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "count": 3
-    },
-    {
-      "stage": "Descalificado",
-      "bucket": "booked",
-      "count": 1
-    },
-    {
-      "stage": "Contactado",
+      "stage": "Sin Respuesta (Seguimiento)",
       "bucket": "contacted",
       "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Maria Ortiz",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-10-13T02:21:57.041Z",
-      "rep": "Itzel Gálvez Martínez",
-      "email": "mari.ortiz6624@gmail.com",
-      "phone": "+18583140311"
-    },
-    {
-      "name": "Jose Molina",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-10-13T01:45:04.647Z",
-      "rep": "Esmeralda Ribon",
-      "email": "jmtree.landscapeservices@gmail.com",
-      "phone": "+17145746541"
-    },
-    {
-      "name": "Rafael RuiZ",
-      "stage": "Descalificado",
-      "bucket": "booked",
-      "createdAt": "2026-10-13T01:12:05.240Z",
-      "rep": "Daglys  Rugeles",
-      "email": "adorador2011@yahoo.com",
-      "phone": "+18183101235"
-    },
-    {
-      "name": "DANIEL MOLINA",
-      "stage": "Contactado",
+      "name": "Laura Beltran",
+      "stage": "Sin Respuesta (Seguimiento)",
       "bucket": "contacted",
-      "createdAt": "2026-10-13T00:49:16.391Z",
-      "rep": "Karina Vasquez",
-      "email": "molina.daniel.m@gmail.com",
-      "phone": "+19096487148"
-    },
-    {
-      "name": "Nelly Lucio",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-10-12T23:44:47.637Z",
-      "rep": "Estefania Colin",
-      "email": "nellylucio55@yahoo.com",
-      "phone": "+19098510654"
+      "createdAt": "2026-10-13T21:30:00.568Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "laurabeltran96@gmail.com",
+      "phone": "+12092771761"
     }
   ]
 }
