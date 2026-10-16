@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-16",
-  "generatedAt": "2026-10-15T23:30:02.268724Z",
-  "totalHotLeads": 4,
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-16T23:12:42.501511Z",
+  "totalHotLeads": 2,
   "totals": {
     "hot": 2,
-    "contacted": 2,
+    "contacted": 0,
     "booked": 0
   },
   "stageBreakdown": [
@@ -12,54 +12,26 @@
       "stage": "Hot Lead In",
       "bucket": "hot",
       "count": 2
-    },
-    {
-      "stage": "Sin Respuesta (Seguimiento)",
-      "bucket": "contacted",
-      "count": 1
-    },
-    {
-      "stage": "Sin respuesta y contactado Karina",
-      "bucket": "contacted",
-      "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Enrique Verdugo",
-      "stage": "Sin Respuesta (Seguimiento)",
-      "bucket": "contacted",
-      "createdAt": "2026-10-15T22:28:57.998Z",
+      "name": "Yolanda De Paz",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-10-16T23:04:13.818Z",
       "rep": "Itzel Gálvez Martínez",
-      "email": "srverdugo68@gmail.com",
-      "phone": "+16197392275"
+      "email": "depazymanny12@gmail.com",
+      "phone": "+13107952071"
     },
     {
-      "name": "Salvador Trujillo",
-      "stage": "Sin respuesta y contactado Karina",
-      "bucket": "contacted",
-      "createdAt": "2026-10-15T21:42:18.179Z",
-      "rep": "Karina Vasquez",
-      "email": "trujillodo@gmail.com",
-      "phone": "+15625087679"
-    },
-    {
-      "name": "Maria Quintos",
+      "name": "Juan Ortiz",
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "createdAt": "2026-10-15T21:14:52.475Z",
-      "rep": "Estefania Colin",
-      "email": "maria.quintos@aol.com",
-      "phone": "+17143181381"
-    },
-    {
-      "name": "Maria Zelaya",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-10-15T21:06:51.684Z",
-      "rep": "Tania Díaz",
-      "email": "mariazelaya227@gmail.com",
-      "phone": "+13232682818"
+      "createdAt": "2026-10-16T22:51:36.285Z",
+      "rep": "Esmeralda Ribon",
+      "email": "juancortiz26@gmail.com",
+      "phone": "+18182575201"
     }
   ]
 }
