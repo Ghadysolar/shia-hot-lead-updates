@@ -1,37 +1,28 @@
 {
-  "date": "2026-10-17",
-  "generatedAt": "2026-10-16T23:12:42.501511Z",
-  "totalHotLeads": 2,
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-17T22:49:25.076324Z",
+  "totalHotLeads": 1,
   "totals": {
-    "hot": 2,
+    "hot": 0,
     "contacted": 0,
-    "booked": 0
+    "booked": 1
   },
   "stageBreakdown": [
     {
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "count": 2
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Yolanda De Paz",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-10-16T23:04:13.818Z",
-      "rep": "Itzel Gálvez Martínez",
-      "email": "depazymanny12@gmail.com",
-      "phone": "+13107952071"
-    },
-    {
-      "name": "Juan Ortiz",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-10-16T22:51:36.285Z",
-      "rep": "Esmeralda Ribon",
-      "email": "juancortiz26@gmail.com",
-      "phone": "+18182575201"
+      "name": "Mario Ortiz",
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "createdAt": "2026-10-17T21:14:35.187Z",
+      "rep": "Karina Vasquez",
+      "email": "marioortiz_1970@icloud.com",
+      "phone": "+12097494678"
     }
   ]
 }

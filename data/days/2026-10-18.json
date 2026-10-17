@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-17T22:49:25.076324Z",
+  "totalHotLeads": 1,
+  "totals": {
+    "hot": 0,
+    "contacted": 0,
+    "booked": 1
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Mario Ortiz",
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "createdAt": "2026-10-17T21:14:35.187Z",
+      "rep": "Karina Vasquez",
+      "email": "marioortiz_1970@icloud.com",
+      "phone": "+12097494678"
+    }
+  ]
+}
