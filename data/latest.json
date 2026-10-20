@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T00:04:16.212383Z",
-  "totalHotLeads": 2,
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-20T23:35:26.493939Z",
+  "totalHotLeads": 1,
   "totals": {
     "hot": 1,
-    "contacted": 1,
+    "contacted": 0,
     "booked": 0
   },
   "stageBreakdown": [
@@ -12,31 +12,17 @@
       "stage": "Hot Lead In",
       "bucket": "hot",
       "count": 1
-    },
-    {
-      "stage": "Sin respuesta y contactado Karina",
-      "bucket": "contacted",
-      "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Rafael Reyes",
+      "name": "Maura Martínez",
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "createdAt": "2026-10-20T00:01:40.271Z",
-      "rep": "Daglys  Rugeles",
-      "email": "reyes9996@icloud.com",
-      "phone": "+18313202739"
-    },
-    {
-      "name": "Elia Santiago",
-      "stage": "Sin respuesta y contactado Karina",
-      "bucket": "contacted",
-      "createdAt": "2026-10-19T22:13:02.415Z",
-      "rep": "Karina Vasquez",
-      "email": "reyescinthya216@gmail.com",
-      "phone": "+13232199614"
+      "createdAt": "2026-10-20T21:03:10.112Z",
+      "rep": "Estefania Colin",
+      "email": "mauramartinez1931@gmail.com",
+      "phone": "+16614888243"
     }
   ]
 }

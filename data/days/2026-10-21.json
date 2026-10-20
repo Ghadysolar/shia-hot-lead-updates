@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-20T23:35:26.493939Z",
+  "totalHotLeads": 1,
+  "totals": {
+    "hot": 1,
+    "contacted": 0,
+    "booked": 0
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Maura Martínez",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-10-20T21:03:10.112Z",
+      "rep": "Estefania Colin",
+      "email": "mauramartinez1931@gmail.com",
+      "phone": "+16614888243"
+    }
+  ]
+}
