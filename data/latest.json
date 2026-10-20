@@ -1,51 +1,42 @@
 {
-  "date": "2026-10-19",
-  "generatedAt": "2026-10-18T22:42:43.709579Z",
-  "totalHotLeads": 3,
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T00:04:16.212383Z",
+  "totalHotLeads": 2,
   "totals": {
-    "hot": 2,
-    "contacted": 0,
-    "booked": 1
+    "hot": 1,
+    "contacted": 1,
+    "booked": 0
   },
   "stageBreakdown": [
     {
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "count": 2
+      "count": 1
     },
     {
-      "stage": "Cita Agendada",
-      "bucket": "booked",
+      "stage": "Sin respuesta y contactado Karina",
+      "bucket": "contacted",
       "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Fabian BLcaay",
+      "name": "Rafael Reyes",
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "createdAt": "2026-10-18T22:23:20.812Z",
-      "rep": "Itzel Gálvez Martínez",
-      "email": "fbalcaza@hotmail.com",
-      "phone": "+19690000000"
-    },
-    {
-      "name": "Erica Berrueto",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-10-18T21:36:18.475Z",
-      "rep": "Esmeralda Ribon",
-      "email": "eberrueto2109@gmail.com",
-      "phone": "+16198745580"
-    },
-    {
-      "name": "Maricarmen Simon",
-      "stage": "Cita Agendada",
-      "bucket": "booked",
-      "createdAt": "2026-10-18T21:12:39.781Z",
+      "createdAt": "2026-10-20T00:01:40.271Z",
       "rep": "Daglys  Rugeles",
-      "email": "mcbilingualslp@gmail.com",
-      "phone": "+19179074833"
+      "email": "reyes9996@icloud.com",
+      "phone": "+18313202739"
+    },
+    {
+      "name": "Elia Santiago",
+      "stage": "Sin respuesta y contactado Karina",
+      "bucket": "contacted",
+      "createdAt": "2026-10-19T22:13:02.415Z",
+      "rep": "Karina Vasquez",
+      "email": "reyescinthya216@gmail.com",
+      "phone": "+13232199614"
     }
   ]
 }
