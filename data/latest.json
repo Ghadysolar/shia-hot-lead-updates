@@ -1,28 +1,56 @@
 {
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-20T23:35:26.493939Z",
-  "totalHotLeads": 1,
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-21T23:52:12.967072Z",
+  "totalHotLeads": 3,
   "totals": {
-    "hot": 1,
+    "hot": 0,
     "contacted": 0,
-    "booked": 0
+    "booked": 3
   },
   "stageBreakdown": [
     {
-      "stage": "Hot Lead In",
-      "bucket": "hot",
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "count": 1
+    },
+    {
+      "stage": "Descalificado",
+      "bucket": "booked",
+      "count": 1
+    },
+    {
+      "stage": "Leads extranos y Fuera de zona",
+      "bucket": "booked",
       "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Maura Martínez",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-10-20T21:03:10.112Z",
-      "rep": "Estefania Colin",
-      "email": "mauramartinez1931@gmail.com",
-      "phone": "+16614888243"
+      "name": "Miguel Trejo",
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "createdAt": "2026-10-21T22:56:50.165Z",
+      "rep": "Esmeralda Ribon",
+      "email": "migueltrejosr@gimail.com",
+      "phone": "+17073348782"
+    },
+    {
+      "name": "Edibray polo Polo",
+      "stage": "Descalificado",
+      "bucket": "booked",
+      "createdAt": "2026-10-21T21:26:39.054Z",
+      "rep": "Daglys  Rugeles",
+      "email": "edibraypolo@gmail.com",
+      "phone": "+19153551263"
+    },
+    {
+      "name": "Blanca Elizondo",
+      "stage": "Leads extranos y Fuera de zona",
+      "bucket": "booked",
+      "createdAt": "2026-10-21T21:13:53.531Z",
+      "rep": "Karina Vasquez",
+      "email": "be261953@aol.com",
+      "phone": "+15099474723"
     }
   ]
 }
