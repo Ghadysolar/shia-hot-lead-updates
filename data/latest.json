@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-22T23:49:27.488380Z",
-  "totalHotLeads": 2,
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-23T23:43:32.323067Z",
+  "totalHotLeads": 1,
   "totals": {
-    "hot": 2,
+    "hot": 1,
     "contacted": 0,
     "booked": 0
   },
@@ -11,27 +11,18 @@
     {
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "count": 2
+      "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Angelica Maria Luca Luca",
+      "name": "Armando Reyes",
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "createdAt": "2026-10-22T23:10:26.939Z",
+      "createdAt": "2026-10-23T21:16:01.259Z",
       "rep": "Estefania Colin",
-      "email": "callingallangels0@gmail.com",
-      "phone": "+13109903049"
-    },
-    {
-      "name": "Jose Pere",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-10-22T21:14:31.004Z",
-      "rep": "Tania Díaz",
-      "email": "joseperezromo64@gmail.com",
-      "phone": "+13238952649"
+      "email": "isaiahs.meza@icloud.com",
+      "phone": "+16506906484"
     }
   ]
 }
