@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-24T22:49:19.550061Z",
+  "totalHotLeads": 1,
+  "totals": {
+    "hot": 0,
+    "contacted": 1,
+    "booked": 0
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Sin respuesta y contactado Karina",
+      "bucket": "contacted",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Blanca Ramos",
+      "stage": "Sin respuesta y contactado Karina",
+      "bucket": "contacted",
+      "createdAt": "2026-10-24T22:35:47.697Z",
+      "rep": "Karina Vasquez",
+      "email": "blancahm826@gmail.com",
+      "phone": "+19514632124"
+    }
+  ]
+}

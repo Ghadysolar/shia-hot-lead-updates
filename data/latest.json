@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-23T23:43:32.323067Z",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-24T22:49:19.550061Z",
   "totalHotLeads": 1,
   "totals": {
-    "hot": 1,
-    "contacted": 0,
+    "hot": 0,
+    "contacted": 1,
     "booked": 0
   },
   "stageBreakdown": [
     {
-      "stage": "Hot Lead In",
-      "bucket": "hot",
+      "stage": "Sin respuesta y contactado Karina",
+      "bucket": "contacted",
       "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Armando Reyes",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-10-23T21:16:01.259Z",
-      "rep": "Estefania Colin",
-      "email": "isaiahs.meza@icloud.com",
-      "phone": "+16506906484"
+      "name": "Blanca Ramos",
+      "stage": "Sin respuesta y contactado Karina",
+      "bucket": "contacted",
+      "createdAt": "2026-10-24T22:35:47.697Z",
+      "rep": "Karina Vasquez",
+      "email": "blancahm826@gmail.com",
+      "phone": "+19514632124"
     }
   ]
 }
