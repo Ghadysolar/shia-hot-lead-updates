@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-24T22:49:19.550061Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-25T22:59:17.826576Z",
   "totalHotLeads": 1,
   "totals": {
-    "hot": 0,
-    "contacted": 1,
+    "hot": 1,
+    "contacted": 0,
     "booked": 0
   },
   "stageBreakdown": [
     {
-      "stage": "Sin respuesta y contactado Karina",
-      "bucket": "contacted",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
       "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Blanca Ramos",
-      "stage": "Sin respuesta y contactado Karina",
-      "bucket": "contacted",
-      "createdAt": "2026-10-24T22:35:47.697Z",
-      "rep": "Karina Vasquez",
-      "email": "blancahm826@gmail.com",
-      "phone": "+19514632124"
+      "name": "Sergio Lopez",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-10-25T22:13:29.561Z",
+      "rep": "Estefania Colin",
+      "email": "lpolo209@live.com",
+      "phone": "+16266279045"
     }
   ]
 }
