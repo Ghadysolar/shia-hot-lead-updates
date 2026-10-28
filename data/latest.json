@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T00:11:07.715021Z",
-  "totalHotLeads": 3,
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T00:12:50.709392Z",
+  "totalHotLeads": 1,
   "totals": {
     "hot": 0,
-    "contacted": 3,
+    "contacted": 1,
     "booked": 0
   },
   "stageBreakdown": [
@@ -12,45 +12,17 @@
       "stage": "Sin Respuesta (Seguimiento)",
       "bucket": "contacted",
       "count": 1
-    },
-    {
-      "stage": "Sin respuests y contactado Daglys",
-      "bucket": "contacted",
-      "count": 1
-    },
-    {
-      "stage": "Contactado",
-      "bucket": "contacted",
-      "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Lupe Stott",
+      "name": "Anibal Ventura",
       "stage": "Sin Respuesta (Seguimiento)",
       "bucket": "contacted",
-      "createdAt": "2026-10-27T00:01:00.315Z",
+      "createdAt": "2026-10-27T21:01:06.633Z",
       "rep": "Esmeralda Ribon",
-      "email": "lupitastott@gmail.com",
-      "phone": "+17605861073"
-    },
-    {
-      "name": "Ignacio Hernandez",
-      "stage": "Sin respuests y contactado Daglys",
-      "bucket": "contacted",
-      "createdAt": "2026-10-26T22:30:29.714Z",
-      "rep": "Daglys  Rugeles",
-      "email": "h.ignacio1967@gmail.com",
-      "phone": "+16262782565"
-    },
-    {
-      "name": "David Adams",
-      "stage": "Contactado",
-      "bucket": "contacted",
-      "createdAt": "2026-10-26T22:23:02.964Z",
-      "rep": "Karina Vasquez",
-      "email": "davidradamsr@gmail.com",
-      "phone": "+12092444191"
+      "email": "anibal516@gmail.com",
+      "phone": "+16613052753"
     }
   ]
 }
