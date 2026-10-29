@@ -1,28 +1,37 @@
 {
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T00:12:50.709392Z",
-  "totalHotLeads": 1,
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T00:33:18.014377Z",
+  "totalHotLeads": 2,
   "totals": {
     "hot": 0,
-    "contacted": 1,
+    "contacted": 2,
     "booked": 0
   },
   "stageBreakdown": [
     {
       "stage": "Sin Respuesta (Seguimiento)",
       "bucket": "contacted",
-      "count": 1
+      "count": 2
     }
   ],
   "leads": [
     {
-      "name": "Anibal Ventura",
+      "name": "Pedro Delval",
       "stage": "Sin Respuesta (Seguimiento)",
       "bucket": "contacted",
-      "createdAt": "2026-10-27T21:01:06.633Z",
+      "createdAt": "2026-10-29T00:25:13.868Z",
       "rep": "Esmeralda Ribon",
-      "email": "anibal516@gmail.com",
-      "phone": "+16613052753"
+      "email": "allangaeliz@gmail.com",
+      "phone": "+15623213023"
+    },
+    {
+      "name": "Julio Guadron",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-10-28T21:37:27.780Z",
+      "rep": "Esmeralda Ribon",
+      "email": "julio.guadron@gmail.com",
+      "phone": "+18184488208"
     }
   ]
 }

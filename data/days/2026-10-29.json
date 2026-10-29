@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T00:33:18.014377Z",
+  "totalHotLeads": 2,
+  "totals": {
+    "hot": 0,
+    "contacted": 2,
+    "booked": 0
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "count": 2
+    }
+  ],
+  "leads": [
+    {
+      "name": "Pedro Delval",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-10-29T00:25:13.868Z",
+      "rep": "Esmeralda Ribon",
+      "email": "allangaeliz@gmail.com",
+      "phone": "+15623213023"
+    },
+    {
+      "name": "Julio Guadron",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-10-28T21:37:27.780Z",
+      "rep": "Esmeralda Ribon",
+      "email": "julio.guadron@gmail.com",
+      "phone": "+18184488208"
+    }
+  ]
+}
