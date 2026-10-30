@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T00:32:55.252721Z",
+  "totalHotLeads": 2,
+  "totals": {
+    "hot": 0,
+    "contacted": 1,
+    "booked": 1
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "count": 1
+    },
+    {
+      "stage": "Sin respuests y contactado Daglys",
+      "bucket": "contacted",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Neftali Garcia",
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "createdAt": "2026-10-29T22:49:12.953Z",
+      "rep": "Esmeralda Ribon",
+      "email": "nsilva6060@gmail.com",
+      "phone": "+19513789813"
+    },
+    {
+      "name": "Rolando Abarca",
+      "stage": "Sin respuests y contactado Daglys",
+      "bucket": "contacted",
+      "createdAt": "2026-10-29T22:25:22.850Z",
+      "rep": "Daglys  Rugeles",
+      "email": "cpm.rolandoa@gmail.com",
+      "phone": "+14156700357"
+    }
+  ]
+}
