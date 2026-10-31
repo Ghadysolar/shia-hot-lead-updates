@@ -1,42 +1,28 @@
 {
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T00:32:55.252721Z",
-  "totalHotLeads": 2,
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T00:18:57.835197Z",
+  "totalHotLeads": 1,
   "totals": {
-    "hot": 0,
-    "contacted": 1,
-    "booked": 1
+    "hot": 1,
+    "contacted": 0,
+    "booked": 0
   },
   "stageBreakdown": [
     {
-      "stage": "Cita Agendada",
-      "bucket": "booked",
-      "count": 1
-    },
-    {
-      "stage": "Sin respuests y contactado Daglys",
-      "bucket": "contacted",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
       "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Neftali Garcia",
-      "stage": "Cita Agendada",
-      "bucket": "booked",
-      "createdAt": "2026-10-29T22:49:12.953Z",
-      "rep": "Esmeralda Ribon",
-      "email": "nsilva6060@gmail.com",
-      "phone": "+19513789813"
-    },
-    {
-      "name": "Rolando Abarca",
-      "stage": "Sin respuests y contactado Daglys",
-      "bucket": "contacted",
-      "createdAt": "2026-10-29T22:25:22.850Z",
-      "rep": "Daglys  Rugeles",
-      "email": "cpm.rolandoa@gmail.com",
-      "phone": "+14156700357"
+      "name": "Victor Carrillo",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-10-30T21:51:54.473Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "victor.carrillo0904@gmail.com",
+      "phone": "+14082022627"
     }
   ]
 }

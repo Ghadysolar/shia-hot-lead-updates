@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T00:18:57.835197Z",
+  "totalHotLeads": 1,
+  "totals": {
+    "hot": 1,
+    "contacted": 0,
+    "booked": 0
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Victor Carrillo",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-10-30T21:51:54.473Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "victor.carrillo0904@gmail.com",
+      "phone": "+14082022627"
+    }
+  ]
+}
