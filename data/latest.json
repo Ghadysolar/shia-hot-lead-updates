@@ -1,12 +1,51 @@
 {
-  "date": "2026-11-01",
-  "generatedAt": "2026-10-31T23:54:53.526041Z",
-  "totalHotLeads": 0,
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T00:09:24.596696Z",
+  "totalHotLeads": 3,
   "totals": {
-    "hot": 0,
+    "hot": 2,
     "contacted": 0,
-    "booked": 0
+    "booked": 1
   },
-  "stageBreakdown": [],
-  "leads": []
+  "stageBreakdown": [
+    {
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "count": 2
+    },
+    {
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Adelelmo Inzunza",
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "createdAt": "2026-11-01T23:04:35.746Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "adelelmocinzunza@gmail.com",
+      "phone": "+15592236001"
+    },
+    {
+      "name": "Jose Ferrara",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-01T22:10:26.273Z",
+      "rep": "Tania Díaz",
+      "email": "jnyjisa@gmail.com",
+      "phone": "+16196098839"
+    },
+    {
+      "name": "Candy Espinoza",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-01T21:19:11.765Z",
+      "rep": "Esmeralda Ribon",
+      "email": "candyespinoza20@gmail.com",
+      "phone": "+18184238817"
+    }
+  ]
 }
