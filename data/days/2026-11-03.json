@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T02:44:17.415244Z",
+  "totalHotLeads": 4,
+  "totals": {
+    "hot": 3,
+    "contacted": 0,
+    "booked": 1
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "count": 3
+    },
+    {
+      "stage": "Leads extranos y Fuera de zona",
+      "bucket": "booked",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Alan Saylor",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-03T01:00:00.558Z",
+      "rep": "Karina Vasquez",
+      "email": "alan@saylor.us",
+      "phone": "+12096079009"
+    },
+    {
+      "name": "Sergio Aguirre",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-02T23:59:46.411Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "sergioaguirre2010@gmail.com",
+      "phone": "+17608683397"
+    },
+    {
+      "name": "Jaime Martinez",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-02T23:46:56.780Z",
+      "rep": "Tania Díaz",
+      "email": "janiking2003@yahoo.com",
+      "phone": "+13233560371"
+    },
+    {
+      "name": "Carmen Garcia",
+      "stage": "Leads extranos y Fuera de zona",
+      "bucket": "booked",
+      "createdAt": "2026-11-02T22:39:16.874Z",
+      "rep": "Esmeralda Ribon",
+      "email": "carmelitagarcia0363@gmail.com",
+      "phone": "+16643511196"
+    }
+  ]
+}
