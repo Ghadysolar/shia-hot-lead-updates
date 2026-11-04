@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-03T02:44:17.415244Z",
-  "totalHotLeads": 4,
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T00:59:48.903987Z",
+  "totalHotLeads": 3,
   "totals": {
-    "hot": 3,
+    "hot": 2,
     "contacted": 0,
     "booked": 1
   },
@@ -11,50 +11,41 @@
     {
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "count": 3
+      "count": 2
     },
     {
-      "stage": "Leads extranos y Fuera de zona",
+      "stage": "Cita Agendada",
       "bucket": "booked",
       "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Alan Saylor",
+      "name": "Carlos Pereira",
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "createdAt": "2026-11-03T01:00:00.558Z",
-      "rep": "Karina Vasquez",
-      "email": "alan@saylor.us",
-      "phone": "+12096079009"
-    },
-    {
-      "name": "Sergio Aguirre",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-11-02T23:59:46.411Z",
+      "createdAt": "2026-11-04T00:00:49.468Z",
       "rep": "Itzel Gálvez Martínez",
-      "email": "sergioaguirre2010@gmail.com",
-      "phone": "+17608683397"
+      "email": "exclusive.7@hotmail.com",
+      "phone": "+12019828364"
     },
     {
-      "name": "Jaime Martinez",
+      "name": "Oscar Donato",
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "createdAt": "2026-11-02T23:46:56.780Z",
+      "createdAt": "2026-11-03T23:38:19.408Z",
       "rep": "Tania Díaz",
-      "email": "janiking2003@yahoo.com",
-      "phone": "+13233560371"
+      "email": "danserviceco@icloud.com",
+      "phone": "+12134567890"
     },
     {
-      "name": "Carmen Garcia",
-      "stage": "Leads extranos y Fuera de zona",
+      "name": "Guadalupe Murillo",
+      "stage": "Cita Agendada",
       "bucket": "booked",
-      "createdAt": "2026-11-02T22:39:16.874Z",
+      "createdAt": "2026-11-03T22:01:39.295Z",
       "rep": "Esmeralda Ribon",
-      "email": "carmelitagarcia0363@gmail.com",
-      "phone": "+16643511196"
+      "email": "murillodaycare@hotmail.com",
+      "phone": "+16194369830"
     }
   ]
 }
