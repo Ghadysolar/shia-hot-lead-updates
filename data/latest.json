@@ -1,42 +1,83 @@
 {
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T01:14:57.064672Z",
-  "totalHotLeads": 2,
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T01:19:51.382135Z",
+  "totalHotLeads": 6,
   "totals": {
-    "hot": 1,
-    "contacted": 0,
-    "booked": 1
+    "hot": 3,
+    "contacted": 1,
+    "booked": 2
   },
   "stageBreakdown": [
     {
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "count": 1
+      "count": 3
     },
     {
-      "stage": "Leads extranos y Fuera de zona",
+      "stage": "Cita Agendada",
       "bucket": "booked",
+      "count": 2
+    },
+    {
+      "stage": "Sin respuests y contactado Daglys",
+      "bucket": "contacted",
       "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Regina Hidalgo",
+      "name": "Hussein Ghacham",
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "createdAt": "2026-11-05T01:12:32.097Z",
-      "rep": "Esmeralda Ribon",
-      "email": "monica_regina88@hotmail.com",
-      "phone": "+16193411261"
+      "createdAt": "2026-11-05T23:54:02.405Z",
+      "rep": "Tania Díaz",
+      "email": "ghacham@gmail.com",
+      "phone": "+13235896964"
     },
     {
-      "name": "Jorge Alonso",
-      "stage": "Leads extranos y Fuera de zona",
-      "bucket": "booked",
-      "createdAt": "2026-11-05T00:45:33.067Z",
+      "name": "Nicolas Sanchez",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-05T23:25:40.748Z",
+      "rep": "Esmeralda Ribon",
+      "email": "nicolasarzate98@yahoo.com",
+      "phone": "+13239073914"
+    },
+    {
+      "name": "Test SplitTwo",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-05T22:54:05.767Z",
+      "rep": "Esmeralda Ribon",
+      "email": "qa.split2@solarceos.com",
+      "phone": "+15558675302"
+    },
+    {
+      "name": "Glenda Eclavea",
+      "stage": "Sin respuests y contactado Daglys",
+      "bucket": "contacted",
+      "createdAt": "2026-11-05T22:28:34.887Z",
       "rep": "Daglys  Rugeles",
-      "email": "jorgeaar90@yahoo.com",
-      "phone": "+13059520484"
+      "email": "glendaeclavea76@gmail.com",
+      "phone": "+19162076517"
+    },
+    {
+      "name": "Adrian Garcia",
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "createdAt": "2026-11-05T22:28:19.356Z",
+      "rep": "Karina Vasquez",
+      "email": "adrian.garcia12131@gmail.com",
+      "phone": "+15627268889"
+    },
+    {
+      "name": "Javier Rojas",
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "createdAt": "2026-11-05T21:39:52.200Z",
+      "rep": "Karina Vasquez",
+      "email": "javier.rojas1958@icloud.com",
+      "phone": "+15623922901"
     }
   ]
 }
