@@ -1,28 +1,12 @@
 {
-  "date": "2026-11-07",
-  "generatedAt": "2026-11-07T00:34:14.436227Z",
-  "totalHotLeads": 1,
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T00:08:38.267307Z",
+  "totalHotLeads": 0,
   "totals": {
-    "hot": 1,
+    "hot": 0,
     "contacted": 0,
     "booked": 0
   },
-  "stageBreakdown": [
-    {
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "count": 1
-    }
-  ],
-  "leads": [
-    {
-      "name": "Yop Yop",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-11-06T23:06:25.886Z",
-      "rep": "Itzel Gálvez Martínez",
-      "email": "tijuana.lost@hotmail.com",
-      "phone": "+12134006953"
-    }
-  ]
+  "stageBreakdown": [],
+  "leads": []
 }
