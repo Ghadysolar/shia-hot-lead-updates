@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T00:25:46.105267Z",
+  "totalHotLeads": 1,
+  "totals": {
+    "hot": 0,
+    "contacted": 1,
+    "booked": 0
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Melissa Ochoa",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-09T00:07:42.538Z",
+      "rep": "Esmeralda Ribon",
+      "email": "melissaochoa12@gmail.com",
+      "phone": "+15306816386"
+    }
+  ]
+}
