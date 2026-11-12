@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T02:05:42.770425Z",
+  "totalHotLeads": 5,
+  "totals": {
+    "hot": 1,
+    "contacted": 3,
+    "booked": 1
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "count": 2
+    },
+    {
+      "stage": "Sin respuesta y contactado Karina",
+      "bucket": "contacted",
+      "count": 1
+    },
+    {
+      "stage": "Leads extranos y Fuera de zona",
+      "bucket": "booked",
+      "count": 1
+    },
+    {
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Rebecca Cruz Solorio",
+      "stage": "Sin respuesta y contactado Karina",
+      "bucket": "contacted",
+      "createdAt": "2026-11-11T23:38:43.538Z",
+      "rep": "Karina Vasquez",
+      "email": "rsolorio1954@gmail.com",
+      "phone": "+19164248942"
+    },
+    {
+      "name": "Nurys Monroy",
+      "stage": "Leads extranos y Fuera de zona",
+      "bucket": "booked",
+      "createdAt": "2026-11-11T23:06:32.275Z",
+      "rep": "Karina Vasquez",
+      "email": "luzbenia64@gmail.com",
+      "phone": "+18593511516"
+    },
+    {
+      "name": "John Estrada",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-11T22:47:46.730Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "estrada.1@netzero.com",
+      "phone": "+16264820207"
+    },
+    {
+      "name": "Lilly Johnson",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-11T22:45:02.409Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "lilly.johnson1@aol.com",
+      "phone": "+15626443428"
+    },
+    {
+      "name": "Christina Rodriguez",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-11T21:33:52.401Z",
+      "rep": "Estefania Colin",
+      "email": "christinarr05@gmail.com",
+      "phone": "+17873195178"
+    }
+  ]
+}
