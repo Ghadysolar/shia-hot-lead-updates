@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T01:37:52.628136Z",
+  "totalHotLeads": 2,
+  "totals": {
+    "hot": 0,
+    "contacted": 1,
+    "booked": 1
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "count": 1
+    },
+    {
+      "stage": "Sin respuesta y contactado Karina",
+      "bucket": "contacted",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Noelia Munoz",
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "createdAt": "2026-11-13T00:13:24.778Z",
+      "rep": "Daglys  Rugeles",
+      "email": "cruznoelia700@gmai.com",
+      "phone": "+18313935877"
+    },
+    {
+      "name": "Alejandro Orduño",
+      "stage": "Sin respuesta y contactado Karina",
+      "bucket": "contacted",
+      "createdAt": "2026-11-12T21:04:03.622Z",
+      "rep": "Karina Vasquez",
+      "email": "steph.espero@gmail.com",
+      "phone": "+17608863866"
+    }
+  ]
+}
