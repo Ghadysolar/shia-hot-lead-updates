@@ -1,42 +1,60 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T01:37:52.628136Z",
-  "totalHotLeads": 2,
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T01:12:00.482597Z",
+  "totalHotLeads": 4,
   "totals": {
-    "hot": 0,
+    "hot": 3,
     "contacted": 1,
-    "booked": 1
+    "booked": 0
   },
   "stageBreakdown": [
     {
-      "stage": "Cita Agendada",
-      "bucket": "booked",
-      "count": 1
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "count": 3
     },
     {
-      "stage": "Sin respuesta y contactado Karina",
+      "stage": "Sin respuests y contactado Daglys",
       "bucket": "contacted",
       "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Noelia Munoz",
-      "stage": "Cita Agendada",
-      "bucket": "booked",
-      "createdAt": "2026-11-13T00:13:24.778Z",
-      "rep": "Daglys  Rugeles",
-      "email": "cruznoelia700@gmai.com",
-      "phone": "+18313935877"
+      "name": "Pedro Guzman",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-14T01:08:35.471Z",
+      "rep": "Esmeralda Ribon",
+      "email": "ppagguzmzn@aol.com",
+      "phone": "+19512025927"
     },
     {
-      "name": "Alejandro Orduño",
-      "stage": "Sin respuesta y contactado Karina",
+      "name": "Kassandra Gonzalez",
+      "stage": "Sin respuests y contactado Daglys",
       "bucket": "contacted",
-      "createdAt": "2026-11-12T21:04:03.622Z",
-      "rep": "Karina Vasquez",
-      "email": "steph.espero@gmail.com",
-      "phone": "+17608863866"
+      "createdAt": "2026-11-13T21:28:05.750Z",
+      "rep": "Daglys  Rugeles",
+      "email": "gabiota7575@yahoo.com",
+      "phone": "+17602851539"
+    },
+    {
+      "name": "Rafael Emde",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-13T21:12:03.299Z",
+      "rep": "Estefania Colin",
+      "email": "fralphmendez@gmail.com",
+      "phone": "+16199334402"
+    },
+    {
+      "name": "Angelica Estrada Estrada",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-13T21:05:12.719Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "angelicaestrada18623@gmail.com",
+      "phone": "+18182019708"
     }
   ]
 }

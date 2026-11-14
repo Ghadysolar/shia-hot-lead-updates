@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T01:12:00.482597Z",
+  "totalHotLeads": 4,
+  "totals": {
+    "hot": 3,
+    "contacted": 1,
+    "booked": 0
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "count": 3
+    },
+    {
+      "stage": "Sin respuests y contactado Daglys",
+      "bucket": "contacted",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Pedro Guzman",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-14T01:08:35.471Z",
+      "rep": "Esmeralda Ribon",
+      "email": "ppagguzmzn@aol.com",
+      "phone": "+19512025927"
+    },
+    {
+      "name": "Kassandra Gonzalez",
+      "stage": "Sin respuests y contactado Daglys",
+      "bucket": "contacted",
+      "createdAt": "2026-11-13T21:28:05.750Z",
+      "rep": "Daglys  Rugeles",
+      "email": "gabiota7575@yahoo.com",
+      "phone": "+17602851539"
+    },
+    {
+      "name": "Rafael Emde",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-13T21:12:03.299Z",
+      "rep": "Estefania Colin",
+      "email": "fralphmendez@gmail.com",
+      "phone": "+16199334402"
+    },
+    {
+      "name": "Angelica Estrada Estrada",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-13T21:05:12.719Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "angelicaestrada18623@gmail.com",
+      "phone": "+18182019708"
+    }
+  ]
+}
