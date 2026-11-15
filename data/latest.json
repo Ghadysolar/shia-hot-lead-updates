@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-14T01:12:00.482597Z",
-  "totalHotLeads": 4,
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T00:38:36.634120Z",
+  "totalHotLeads": 2,
   "totals": {
-    "hot": 3,
+    "hot": 1,
     "contacted": 1,
     "booked": 0
   },
@@ -11,50 +11,32 @@
     {
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "count": 3
+      "count": 1
     },
     {
-      "stage": "Sin respuests y contactado Daglys",
+      "stage": "Sin Respuesta (Seguimiento)",
       "bucket": "contacted",
       "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Pedro Guzman",
+      "name": "José Luis Hernandez",
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "createdAt": "2026-11-14T01:08:35.471Z",
-      "rep": "Esmeralda Ribon",
-      "email": "ppagguzmzn@aol.com",
-      "phone": "+19512025927"
-    },
-    {
-      "name": "Kassandra Gonzalez",
-      "stage": "Sin respuests y contactado Daglys",
-      "bucket": "contacted",
-      "createdAt": "2026-11-13T21:28:05.750Z",
-      "rep": "Daglys  Rugeles",
-      "email": "gabiota7575@yahoo.com",
-      "phone": "+17602851539"
-    },
-    {
-      "name": "Rafael Emde",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-11-13T21:12:03.299Z",
+      "createdAt": "2026-11-14T21:41:14.611Z",
       "rep": "Estefania Colin",
-      "email": "fralphmendez@gmail.com",
-      "phone": "+16199334402"
+      "email": "josel6715@yahoo.com",
+      "phone": "+15103679223"
     },
     {
-      "name": "Angelica Estrada Estrada",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-11-13T21:05:12.719Z",
+      "name": "Israel Moya",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-14T21:28:46.708Z",
       "rep": "Itzel Gálvez Martínez",
-      "email": "angelicaestrada18623@gmail.com",
-      "phone": "+18182019708"
+      "email": "moyai6786@gmail.com",
+      "phone": "+18319209216"
     }
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T00:38:36.634120Z",
+  "totalHotLeads": 2,
+  "totals": {
+    "hot": 1,
+    "contacted": 1,
+    "booked": 0
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "count": 1
+    },
+    {
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "José Luis Hernandez",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-14T21:41:14.611Z",
+      "rep": "Estefania Colin",
+      "email": "josel6715@yahoo.com",
+      "phone": "+15103679223"
+    },
+    {
+      "name": "Israel Moya",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-14T21:28:46.708Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "moyai6786@gmail.com",
+      "phone": "+18319209216"
+    }
+  ]
+}
