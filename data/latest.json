@@ -1,42 +1,37 @@
 {
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T00:38:36.634120Z",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T00:39:05.738081Z",
   "totalHotLeads": 2,
   "totals": {
-    "hot": 1,
-    "contacted": 1,
+    "hot": 2,
+    "contacted": 0,
     "booked": 0
   },
   "stageBreakdown": [
     {
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "count": 1
-    },
-    {
-      "stage": "Sin Respuesta (Seguimiento)",
-      "bucket": "contacted",
-      "count": 1
+      "count": 2
     }
   ],
   "leads": [
     {
-      "name": "José Luis Hernandez",
+      "name": "Cristian Rauda",
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "createdAt": "2026-11-14T21:41:14.611Z",
+      "createdAt": "2026-11-16T00:35:22.488Z",
       "rep": "Estefania Colin",
-      "email": "josel6715@yahoo.com",
-      "phone": "+15103679223"
+      "email": "crgaonaerg22@icloud.com",
+      "phone": "+17073571402"
     },
     {
-      "name": "Israel Moya",
-      "stage": "Sin Respuesta (Seguimiento)",
-      "bucket": "contacted",
-      "createdAt": "2026-11-14T21:28:46.708Z",
+      "name": "Roberto Perez",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-15T23:35:07.909Z",
       "rep": "Itzel Gálvez Martínez",
-      "email": "moyai6786@gmail.com",
-      "phone": "+18319209216"
+      "email": "robepsilva5@gmail.com",
+      "phone": "+13233265831"
     }
   ]
 }
