@@ -1,37 +1,55 @@
 {
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T00:39:05.738081Z",
-  "totalHotLeads": 2,
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T03:21:09.647831Z",
+  "totalHotLeads": 4,
   "totals": {
-    "hot": 2,
-    "contacted": 0,
+    "hot": 0,
+    "contacted": 4,
     "booked": 0
   },
   "stageBreakdown": [
     {
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "count": 2
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "count": 4
     }
   ],
   "leads": [
     {
-      "name": "Cristian Rauda",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-11-16T00:35:22.488Z",
-      "rep": "Estefania Colin",
-      "email": "crgaonaerg22@icloud.com",
-      "phone": "+17073571402"
+      "name": "Rosa Diaz",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-17T03:21:08.486Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "rosa_ldv@hotmail.com",
+      "phone": "+14422503868"
     },
     {
-      "name": "Roberto Perez",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-11-15T23:35:07.909Z",
+      "name": "Susana Gonzalez",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-17T03:20:35.367Z",
       "rep": "Itzel Gálvez Martínez",
-      "email": "robepsilva5@gmail.com",
-      "phone": "+13233265831"
+      "email": "susanamg1228@gmail.com",
+      "phone": "+15595774019"
+    },
+    {
+      "name": "Carlos Salcedo",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-17T00:08:37.769Z",
+      "rep": "Esmeralda Ribon",
+      "email": "andeneslandscaping@gmail.com",
+      "phone": "+18502545690"
+    },
+    {
+      "name": "Guillermo Munoz",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-16T21:40:31.574Z",
+      "rep": "Esmeralda Ribon",
+      "email": "guillermo.munoz3680@gmail.com",
+      "phone": "+16195992058"
     }
   ]
 }
