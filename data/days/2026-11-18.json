@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T02:41:54.602670Z",
+  "totalHotLeads": 1,
+  "totals": {
+    "hot": 0,
+    "contacted": 1,
+    "booked": 0
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Sin respuests y contactado Daglys",
+      "bucket": "contacted",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Jose Vásquez",
+      "stage": "Sin respuests y contactado Daglys",
+      "bucket": "contacted",
+      "createdAt": "2026-11-17T22:21:53.527Z",
+      "rep": "Daglys  Rugeles",
+      "email": "josetalo1818@gmail.com",
+      "phone": "+19294316213"
+    }
+  ]
+}

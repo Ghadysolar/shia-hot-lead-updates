@@ -1,55 +1,28 @@
 {
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T03:21:09.647831Z",
-  "totalHotLeads": 4,
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T02:41:54.602670Z",
+  "totalHotLeads": 1,
   "totals": {
     "hot": 0,
-    "contacted": 4,
+    "contacted": 1,
     "booked": 0
   },
   "stageBreakdown": [
     {
-      "stage": "Sin Respuesta (Seguimiento)",
+      "stage": "Sin respuests y contactado Daglys",
       "bucket": "contacted",
-      "count": 4
+      "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Rosa Diaz",
-      "stage": "Sin Respuesta (Seguimiento)",
+      "name": "Jose Vásquez",
+      "stage": "Sin respuests y contactado Daglys",
       "bucket": "contacted",
-      "createdAt": "2026-11-17T03:21:08.486Z",
-      "rep": "Itzel Gálvez Martínez",
-      "email": "rosa_ldv@hotmail.com",
-      "phone": "+14422503868"
-    },
-    {
-      "name": "Susana Gonzalez",
-      "stage": "Sin Respuesta (Seguimiento)",
-      "bucket": "contacted",
-      "createdAt": "2026-11-17T03:20:35.367Z",
-      "rep": "Itzel Gálvez Martínez",
-      "email": "susanamg1228@gmail.com",
-      "phone": "+15595774019"
-    },
-    {
-      "name": "Carlos Salcedo",
-      "stage": "Sin Respuesta (Seguimiento)",
-      "bucket": "contacted",
-      "createdAt": "2026-11-17T00:08:37.769Z",
-      "rep": "Esmeralda Ribon",
-      "email": "andeneslandscaping@gmail.com",
-      "phone": "+18502545690"
-    },
-    {
-      "name": "Guillermo Munoz",
-      "stage": "Sin Respuesta (Seguimiento)",
-      "bucket": "contacted",
-      "createdAt": "2026-11-16T21:40:31.574Z",
-      "rep": "Esmeralda Ribon",
-      "email": "guillermo.munoz3680@gmail.com",
-      "phone": "+16195992058"
+      "createdAt": "2026-11-17T22:21:53.527Z",
+      "rep": "Daglys  Rugeles",
+      "email": "josetalo1818@gmail.com",
+      "phone": "+19294316213"
     }
   ]
 }
