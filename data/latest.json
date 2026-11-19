@@ -1,28 +1,69 @@
 {
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T02:41:54.602670Z",
-  "totalHotLeads": 1,
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T02:11:54.348794Z",
+  "totalHotLeads": 5,
   "totals": {
-    "hot": 0,
-    "contacted": 1,
-    "booked": 0
+    "hot": 4,
+    "contacted": 0,
+    "booked": 1
   },
   "stageBreakdown": [
     {
-      "stage": "Sin respuests y contactado Daglys",
-      "bucket": "contacted",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "count": 4
+    },
+    {
+      "stage": "Sentado",
+      "bucket": "booked",
       "count": 1
     }
   ],
   "leads": [
     {
-      "name": "Jose Vásquez",
-      "stage": "Sin respuests y contactado Daglys",
-      "bucket": "contacted",
-      "createdAt": "2026-11-17T22:21:53.527Z",
-      "rep": "Daglys  Rugeles",
-      "email": "josetalo1818@gmail.com",
-      "phone": "+19294316213"
+      "name": "Roberto Nava",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-19T01:50:56.905Z",
+      "rep": "Estefania Colin",
+      "email": "robe33.rn@gmail.com",
+      "phone": "+17143602337"
+    },
+    {
+      "name": "Jesus Martinez",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-19T01:31:54.676Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "jesusmartinez1992p@gmail.com",
+      "phone": "+15303150271"
+    },
+    {
+      "name": "Ruben Valdovinos",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-18T23:17:40.416Z",
+      "rep": "Tania Díaz",
+      "email": "rubevaldo781@gmail.com",
+      "phone": "+15595871320"
+    },
+    {
+      "name": "Christian Perez Rodriguez",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-18T22:33:58.238Z",
+      "rep": "Esmeralda Ribon",
+      "email": "christiandanielperezrodriguezc@gmail.com",
+      "phone": "+18312276854"
+    },
+    {
+      "name": "Isaac Lopez",
+      "stage": "Sentado",
+      "bucket": "booked",
+      "createdAt": "2026-11-18T22:20:18.951Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "lopezdrywall@aol.com",
+      "phone": "+16192476636"
     }
   ]
 }
