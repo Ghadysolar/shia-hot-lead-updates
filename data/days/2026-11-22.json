@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T00:51:45.375129Z",
+  "totalHotLeads": 1,
+  "totals": {
+    "hot": 0,
+    "contacted": 0,
+    "booked": 1
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "MARGARITO CARDENAS",
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "createdAt": "2026-11-21T22:53:03.564Z",
+      "rep": "Esmeralda Ribon",
+      "email": "marcos46c@gmail.com",
+      "phone": "+17608199624"
+    }
+  ]
+}

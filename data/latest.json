@@ -1,23 +1,13 @@
 {
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T01:55:59.275202Z",
-  "totalHotLeads": 5,
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T00:51:45.375129Z",
+  "totalHotLeads": 1,
   "totals": {
-    "hot": 3,
-    "contacted": 1,
+    "hot": 0,
+    "contacted": 0,
     "booked": 1
   },
   "stageBreakdown": [
-    {
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "count": 3
-    },
-    {
-      "stage": "Sin Respuesta (Seguimiento)",
-      "bucket": "contacted",
-      "count": 1
-    },
     {
       "stage": "Cita Agendada",
       "bucket": "booked",
@@ -26,49 +16,13 @@
   ],
   "leads": [
     {
-      "name": "Xinia Fillare",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-11-21T01:52:06.281Z",
-      "rep": "Esmeralda Ribon",
-      "email": "melfillare@gmail.com",
-      "phone": "+19514140325"
-    },
-    {
-      "name": "Fely Torres",
-      "stage": "Sin Respuesta (Seguimiento)",
-      "bucket": "contacted",
-      "createdAt": "2026-11-21T00:39:27.561Z",
-      "rep": "Esmeralda Ribon",
-      "email": "felyuknow@gmail.com",
-      "phone": "+19496301653"
-    },
-    {
-      "name": "Berenice Villegas",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-11-21T00:35:55.983Z",
-      "rep": "Daglys  Rugeles",
-      "email": "berlove120@yahoo.com",
-      "phone": "+17604439216"
-    },
-    {
-      "name": "José Salcido",
+      "name": "MARGARITO CARDENAS",
       "stage": "Cita Agendada",
       "bucket": "booked",
-      "createdAt": "2026-11-20T23:56:06.937Z",
-      "rep": "Karina Vasquez",
-      "email": "mosessalcido0216@gmail.com",
-      "phone": "+18186603470"
-    },
-    {
-      "name": "Heiner Rodas",
-      "stage": "Hot Lead In",
-      "bucket": "hot",
-      "createdAt": "2026-11-20T23:25:46.373Z",
-      "rep": "Tania Díaz",
-      "email": "rodasheiner@icloud.com",
-      "phone": "+16264291528"
+      "createdAt": "2026-11-21T22:53:03.564Z",
+      "rep": "Esmeralda Ribon",
+      "email": "marcos46c@gmail.com",
+      "phone": "+17608199624"
     }
   ]
 }
