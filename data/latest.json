@@ -1,28 +1,42 @@
 {
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T00:51:45.375129Z",
-  "totalHotLeads": 1,
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T01:20:54.929227Z",
+  "totalHotLeads": 2,
   "totals": {
     "hot": 0,
-    "contacted": 0,
+    "contacted": 1,
     "booked": 1
   },
   "stageBreakdown": [
     {
-      "stage": "Cita Agendada",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "count": 1
+    },
+    {
+      "stage": "Leads extranos y Fuera de zona",
       "bucket": "booked",
       "count": 1
     }
   ],
   "leads": [
     {
-      "name": "MARGARITO CARDENAS",
-      "stage": "Cita Agendada",
-      "bucket": "booked",
-      "createdAt": "2026-11-21T22:53:03.564Z",
+      "name": "Brisia salcedo garcia salcedo garcia",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-22T23:12:00.616Z",
       "rep": "Esmeralda Ribon",
-      "email": "marcos46c@gmail.com",
-      "phone": "+17608199624"
+      "email": "brisiasalcedo@g.com",
+      "phone": "+16198405050"
+    },
+    {
+      "name": "Daniela Araya",
+      "stage": "Leads extranos y Fuera de zona",
+      "bucket": "booked",
+      "createdAt": "2026-11-22T21:48:20.830Z",
+      "rep": "Daglys  Rugeles",
+      "email": "ilufibers@gmail.com",
+      "phone": "+19396410630"
     }
   ]
 }
