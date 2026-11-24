@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T05:06:18.061569Z",
+  "totalHotLeads": 8,
+  "totals": {
+    "hot": 2,
+    "contacted": 4,
+    "booked": 2
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "count": 4
+    },
+    {
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "count": 2
+    },
+    {
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "count": 1
+    },
+    {
+      "stage": "Sentado",
+      "bucket": "booked",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Joel Lomelí",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-24T04:19:17.528Z",
+      "rep": "Esmeralda Ribon",
+      "email": "chil123lomeli@gmail.com",
+      "phone": "+15106884569"
+    },
+    {
+      "name": "Jose Medrano",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-24T03:11:57.150Z",
+      "rep": "Esmeralda Ribon",
+      "email": "jose.jm548@gmail.com",
+      "phone": "+12792756153"
+    },
+    {
+      "name": "Aixa Ponce",
+      "stage": "Cita Agendada",
+      "bucket": "booked",
+      "createdAt": "2026-11-24T02:07:55.030Z",
+      "rep": "Karina Vasquez",
+      "email": "ponceaixa110@gmail.com",
+      "phone": "+19095245323"
+    },
+    {
+      "name": "Sergio Mayorga",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-24T01:05:38.847Z",
+      "rep": "Estefania Colin",
+      "email": "sergiomayorga79@gmail.com",
+      "phone": "+19256982785"
+    },
+    {
+      "name": "MARTIN Aguilar",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-24T00:46:16.682Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "tinman1101978@gmail.com",
+      "phone": "+16266433544"
+    },
+    {
+      "name": "Daniel Parra",
+      "stage": "Sin Respuesta (Seguimiento)",
+      "bucket": "contacted",
+      "createdAt": "2026-11-24T00:27:05.763Z",
+      "rep": "Itzel Gálvez Martínez",
+      "email": "allnatura@saludgmail.com",
+      "phone": "+13236803502"
+    },
+    {
+      "name": "Antonia Davalos",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-23T23:41:04.514Z",
+      "rep": "Tania Díaz",
+      "email": "antonia7266@gmail.com",
+      "phone": "+19517226041"
+    },
+    {
+      "name": "Jose Torreblanca",
+      "stage": "Sentado",
+      "bucket": "booked",
+      "createdAt": "2026-11-23T21:11:37.861Z",
+      "rep": "Esmeralda Ribon",
+      "email": "pepeaqp47@yahoo.com",
+      "phone": "+15622613216"
+    }
+  ]
+}
