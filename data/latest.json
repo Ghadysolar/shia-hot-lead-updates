@@ -1,65 +1,46 @@
 {
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T03:54:50.800087Z",
-  "totalHotLeads": 4,
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T03:20:47.345839Z",
+  "totalHotLeads": 3,
   "totals": {
-    "hot": 2,
-    "contacted": 2,
+    "hot": 3,
+    "contacted": 0,
     "booked": 0
   },
   "stageBreakdown": [
     {
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "count": 2
-    },
-    {
-      "stage": "Sin Respuesta (Seguimiento)",
-      "bucket": "contacted",
-      "count": 1
-    },
-    {
-      "stage": "Contactado",
-      "bucket": "contacted",
-      "count": 1
+      "count": 3
     }
   ],
   "leads": [
     {
-      "name": "Jesus Enrique Ruvalcaba",
+      "name": "Christian Parra",
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "createdAt": "2026-11-25T03:20:48.061Z",
+      "createdAt": "2026-11-26T02:48:58.419Z",
+      "rep": "Estefania Colin",
+      "email": "ti-ton@live.com",
+      "phone": "+17073441159"
+    },
+    {
+      "name": "Homero Campos",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-25T22:23:27.895Z",
       "rep": "Itzel Gálvez Martínez",
-      "email": "barcelonaeventcenters@yahoo.com",
-      "phone": "+17604273117"
+      "email": "homerorcampos@gmail.com",
+      "phone": "+15103931100"
     },
     {
-      "name": "Alicia Edwards",
+      "name": "Manuel Castaneda",
       "stage": "Hot Lead In",
       "bucket": "hot",
-      "createdAt": "2026-11-25T00:26:18.582Z",
+      "createdAt": "2026-11-25T21:04:42.606Z",
       "rep": "Tania Díaz",
-      "email": "mikeslicia2001@yahoo.com",
-      "phone": "+19094462938"
-    },
-    {
-      "name": "Pablo Kwon",
-      "stage": "Sin Respuesta (Seguimiento)",
-      "bucket": "contacted",
-      "createdAt": "2026-11-24T23:50:29.984Z",
-      "rep": "Esmeralda Ribon",
-      "email": "pablo.kwon@yahoo.com",
-      "phone": "+18053610465"
-    },
-    {
-      "name": "Olga Lucero",
-      "stage": "Contactado",
-      "bucket": "contacted",
-      "createdAt": "2026-11-24T22:13:06.776Z",
-      "rep": "Karina Vasquez",
-      "email": "luceroolga70@yahoo.com",
-      "phone": "+18189437961"
+      "email": "macasta69@hotmail.com",
+      "phone": "+14158470902"
     }
   ]
 }
