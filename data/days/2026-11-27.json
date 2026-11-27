@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T03:26:24.645595Z",
+  "totalHotLeads": 1,
+  "totals": {
+    "hot": 1,
+    "contacted": 0,
+    "booked": 0
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Cesar Rodriguez",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-27T00:41:50.706Z",
+      "rep": "Estefania Colin",
+      "email": "cesarakcsi@yahoo.com",
+      "phone": "+18188120305"
+    }
+  ]
+}
