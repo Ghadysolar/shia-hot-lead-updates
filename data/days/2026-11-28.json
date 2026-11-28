@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T03:01:52.644911Z",
+  "totalHotLeads": 2,
+  "totals": {
+    "hot": 1,
+    "contacted": 1,
+    "booked": 0
+  },
+  "stageBreakdown": [
+    {
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "count": 1
+    },
+    {
+      "stage": "Sin respuesta y contactado Karina",
+      "bucket": "contacted",
+      "count": 1
+    }
+  ],
+  "leads": [
+    {
+      "name": "Fernando Valencia",
+      "stage": "Hot Lead In",
+      "bucket": "hot",
+      "createdAt": "2026-11-28T02:18:29.684Z",
+      "rep": "Esmeralda Ribon",
+      "email": "valenciafernando2@yahoo.com",
+      "phone": "+14086556315"
+    },
+    {
+      "name": "Lydia Sanchez",
+      "stage": "Sin respuesta y contactado Karina",
+      "bucket": "contacted",
+      "createdAt": "2026-11-28T01:50:53.123Z",
+      "rep": "Karina Vasquez",
+      "email": "thesnachez3@gmail.com",
+      "phone": "+19099389107"
+    }
+  ]
+}
